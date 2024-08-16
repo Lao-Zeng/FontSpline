@@ -112,7 +112,15 @@ Font spline can be used with Niagara System as particle paths. Fig. 9 shows how 
 <img src="images/Spring_ParticleMovingPath.png" width=460/>  
 Fig. 9 Particles Moving Along Paths<br/><br/>
 
-The following animation demonstrates how to drive fluid moving along spline paths.
+The following gif image shows fluid driven by particle animation flowing along spline paths.
 
-<img src="images/FluidAlongPaths.gif" width=160/>  
+<img src="images/FluidAlongPaths.gif" width=460/>  
 Animation. 1 Fluid Flowing Along Paths<br/><br/>
+
+### PCG
+
+TrueType font splines can also be used as PCG guide lines to generate landscape or decorated areas illustrated below.
+
+<img src="images/Spring_PCG1.png" width=460/>  
+<img src="images/Spring_PCG2.png" width=460/>  
+Fig. 10 PCG with TrueType Font Splines.<br/><br/>
