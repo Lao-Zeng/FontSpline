@@ -103,7 +103,7 @@ Fig. 7 Blueprint Template of Spline Mesh<br/><br/>
 Fig. 8 shows a possible application of this feature. Neon lights in the scene are actually static meshes with emission material.
 
 <img src="images/NeonLights.png" width=600/>  
-Fig. 8 Neon Lights<br/><br/>
+Fig. 8 Neon Lights Created from Splines, Static Mesh, and Emissive Material<br/><br/>
 
 ### VFX
 
