@@ -57,18 +57,18 @@ A program was developed to evaluate the performance of the algorithm by collecti
 
 | Font Name | Example | Number of Characters | Max CPs | Min CPs | Avg CPs | Total Time (ms) | Avg Time (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Arial | <img src="assets/images/font_icons/Arial.png" width=40/> | 94 | 118 | 4 | 27.7 | 4.6 | 0.049 |
-| Times New Roman | <img src="assets/images/font_icons/TimeNewRoman.png" width=40/> | 94 | 114 | 4 | 43.8 | 5.99 | 0.063 |
-| STZhongsong| <img src="assets/images/font_icons/STZhongsongRegular.png" width=40/> | 20902 | 732 | 16 | 209.81 | 2620.33 | 0.125 |
-| SimSun | <img src="assets/images/font_icons/SimSun.png" width=40/> | 27648 | 427 | 7 | 126.40 | 2343.98 | 0.084 |
-| JhengHei | <img src="assets/images/font_icons/MicrosoftJhengHei.png" width=40/> | 50734 | 316 | 4 | 51.11 | 2329.59 | 0.045 |
-| Dubai | <img src="assets/images/font_icons/Dubai.png" width=40/> | 940 | 346 | 4 | 15.69 | 27.70 | 0.029 |
-| MSGothic | <img src="assets/images/font_icons/MSGothicRegular.png" width=40/> | 447 | 99 | 4 | 19.87 | 37.18 | 0.083 |
-| Malgun Gothic | <img src="assets/images/font_icons/MalgunGothic.png" width=40/> | 11172 | 123 | 10 | 57.57 | 856.47 | 0.076 |
-| Himalaya | <img src="assets/images/font_icons/MicrosoftHimalayaRegular.png" width=40/> | 219 | 394 | 4 | 92.90 | 12.14 | 0.055 |
-| TaiLe | <img src="assets/images/font_icons/MicrosoftTaiLe.png" width=40/> | 2357 | 123 | 4 | 8.99 | 38.35 | 0.016 |
-| Monogolian Baiti | <img src="assets/images/font_icons/MonogolianBaitiRegular.png" width=40/> | 155 | 399 | 9 | 91.82 | 8.51 | 0.054 |
-| Myanmar Text | <img src="assets/images/font_icons/MyanmarText.png" width=40/> | 43 | 375 | 62 | 124.35 | 3.00 | 0.069 |
+| Arial | <img src="assets/images/font-icons/Arial.png" width=40/> | 94 | 118 | 4 | 27.7 | 4.6 | 0.049 |
+| Times New Roman | <img src="assets/images/font-icons/TimeNewRoman.png" width=40/> | 94 | 114 | 4 | 43.8 | 5.99 | 0.063 |
+| STZhongsong| <img src="assets/images/font-icons/STZhongsongRegular.png" width=40/> | 20902 | 732 | 16 | 209.81 | 2620.33 | 0.125 |
+| SimSun | <img src="assets/images/font-icons/SimSun.png" width=40/> | 27648 | 427 | 7 | 126.40 | 2343.98 | 0.084 |
+| JhengHei | <img src="assets/images/font-icons/MicrosoftJhengHei.png" width=40/> | 50734 | 316 | 4 | 51.11 | 2329.59 | 0.045 |
+| Dubai | <img src="assets/images/font-icons/Dubai.png" width=40/> | 940 | 346 | 4 | 15.69 | 27.70 | 0.029 |
+| MSGothic | <img src="assets/images/font-icons/MSGothicRegular.png" width=40/> | 447 | 99 | 4 | 19.87 | 37.18 | 0.083 |
+| Malgun Gothic | <img src="assets/images/font-icons/MalgunGothic.png" width=40/> | 11172 | 123 | 10 | 57.57 | 856.47 | 0.076 |
+| Himalaya | <img src="assets/images/font-icons/MicrosoftHimalayaRegular.png" width=40/> | 219 | 394 | 4 | 92.90 | 12.14 | 0.055 |
+| TaiLe | <img src="assets/images/font-icons/MicrosoftTaiLe.png" width=40/> | 2357 | 123 | 4 | 8.99 | 38.35 | 0.016 |
+| Monogolian Baiti | <img src="assets/images/font-icons/MonogolianBaitiRegular.png" width=40/> | 155 | 399 | 9 | 91.82 | 8.51 | 0.054 |
+| Myanmar Text | <img src="assets/images/font-icons/MyanmarText.png" width=40/> | 43 | 375 | 62 | 124.35 | 3.00 | 0.069 |
 
 Total of 10 different languages were used in the evaluation. Performance varies from character to character affected by the number of control points a character has. Fig. 4 shows the relevance of average number of control points and the generation time to the font.
 
