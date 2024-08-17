@@ -28,8 +28,7 @@ Where $P_0$ and $P_1$ are the control points of the curve, $m_0$ and $m_1$ are t
 
 *Cubic Font Spline* comes with two seperate modules. One of them is the algorithm itself implemented as a dynamic link library, which is ready to be integrated into other systems. The other is a dedicated editor which is designed and implemented as an Unreal Engine plugin. Fig. 1 shows what the editor looks like.
 
-<img src="assets/images/editor-UI.png" width=600/>  
-Fig.1 Cubic Font Editor User Interface<br/><br/>
+<figure><img src="assets/images/editor-UI.png" width=600><figcaption>Fig.1 Cubic Font Editor User Interface</figcaption></figure>
 
 The rendered curves are the Chinese character for "spring". Control points are also shown to give a rough idea of how the spline is constructed. Why "curves" rather than "curve"? The character "春" comprises multiple separated parts, and each of them is rendered as a single spline. In most cases multiple splines have to be generated to render a single character. The coordinate system is also shown to give a hint of how the character was made by the font manufacturer.
 
