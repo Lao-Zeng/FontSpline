@@ -105,16 +105,16 @@ Fig. 8 shows a possible application of this feature. Neon lights in the scene ar
 <img src="assets/images/neon-lights-demo.png" width=600/>  
 Fig. 8 Neon Lights Created from Splines, Static Mesh, and Emissive Material<br/><br/>
 
-### VFX
+### Visual Effects
 
-Font spline can be used with Niagara System as particle paths. Fig. 9 shows how particles are generated along spline curves in Niagara and controlled by Blueprint.
+Font spline can be used with Unreal Engine's Niagara System as particle paths. Fig. 9 shows how particles are generated and animated along spline curves by using blueprints.
 
 <img src="assets/images/spring-particle-moving-path.png" width=460/>  
 Fig. 9 Particles Moving Along Paths<br/><br/>
 
-### PCG
+### Procedural Content Generation
 
-TrueType font splines can also be used as PCG guide lines to generate landscape or decorated areas illustrated below.
+TrueType font splines can also be used as Procedural Content Generation (PCG) guide lines to generate landscape or decorated areas illustrated below.
 
 <img src="assets/images/spring-PCG-side-view.png" width=460/>  
 <img src="assets/images/spring-PCG-over-view.png" width=460/>  
